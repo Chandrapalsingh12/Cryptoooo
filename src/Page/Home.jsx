@@ -95,20 +95,20 @@ function Home() {
           <div className="grid-container">
             <div className="grid-item">
               My Total Token <br />
-              2300
+              
             </div>
             <div className="grid-item">
               Total Token Value <br />
-              2300$
+              $
             </div>
             <div className="grid-item">
               Taken Burned <br />
-              2300$
+              $
             </div>
             <div className="grid-item">
               Total Supply
               <br />
-              2300$
+              $
             </div>
             <div className="grid-item">
               Market Value
